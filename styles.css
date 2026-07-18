@@ -1,0 +1,94 @@
+
+.ttt_table {
+    margin: auto;
+}
+
+h1,p,form {
+    text-align: center;
+}
+
+input{
+    margin-right: 10px;
+}
+
+.grid {
+    font-size:100px;
+    border: none;
+    color: red;
+    background-color: white;
+    width: 120px;
+    height: 120px;
+
+}
+.start_btn{
+    margin: 10px;
+    padding: 10px;
+
+}
+.btn1{
+    border-right: solid;
+    border-bottom: solid;
+    height: auto;
+    width:auto;
+}
+.btn2{
+    border-right: solid;
+    border-left: solid;
+    border-bottom: solid;
+    height: auto;
+    width:auto;
+}
+
+.btn3{
+    border-left: solid;
+    border-bottom: solid;
+    height: auto;
+    width:auto;
+}
+
+.btn4{
+    border-top: solid;
+    border-right: solid;
+    border-bottom: solid;
+    height: auto;
+    width:auto;
+}
+
+.btn5{
+    border: solid;
+    height: auto;
+    width:auto;
+}
+
+.btn6{
+    border-top: solid;
+    border-left: solid;
+    border-bottom: solid;
+    height: auto;
+    width:auto;
+}
+
+.btn7{
+    border-top: solid;
+    border-right: solid;
+    height: auto;
+    width:auto;
+}
+
+.btn8{
+    border-top: solid;
+    border-right: solid;
+    border-left: solid;
+    height: auto;
+    width:auto;
+}
+
+.btn9{
+    border-top: solid;
+    border-left: solid;
+    height: auto;
+    width:auto;
+}
+
+
+
